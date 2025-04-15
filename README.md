@@ -2,11 +2,11 @@
 
 ## 📄 Overview
 
-This resume presents the academic background, certifications, and career aspirations of **Joe Dennis U. Mauricio**, an aspiring cybersecurity professional. The document highlights relevant training, education, and skills that align with a future role in cybersecurity and IT-related fields.
+This resume outlines the academic background, certifications, and technical skills of **Joe Dennis U. Mauricio**, an aspiring cybersecurity professional. It is intended for internship and entry-level roles in cybersecurity, IT, and networking.
 
 ## 🎯 Career Objective
 
-To obtain a cybersecurity position where I can leverage my knowledge in networking and programming to secure systems and protect data. I am eager to contribute to cybersecurity-focused initiatives, gain practical experience, and develop professionally in a dynamic tech environment.
+To secure a cybersecurity role where I can apply my knowledge in networking and programming to help protect systems and data. I am eager to contribute to security-focused projects, gain hands-on experience, and grow professionally in a dynamic and evolving tech environment.
 
 ## 👤 Personal Information
 
@@ -37,12 +37,21 @@ To obtain a cybersecurity position where I can leverage my knowledge in networki
 - **CCNAv7: Switching, Routing, and Wireless Essentials** – August 21, 2023  
 - **CCNAv7: Introduction to Networks** – April 13, 2023  
 
-## 📁 File Details
+## 🛠 Technical Skills
 
-- **File Name:** Resume’.pdf  
+- **Programming:** Python  
+- **Networking:** Cisco Packet Tracer, Wireshark  
+- **Cybersecurity Tools:** Kali Linux, Nmap, Splunk  
+- **Version Control:** Git, GitHub  
+- **GitHub:** [https://github.com/jdmanalyst](https://github.com/jdmanalyst)
+
+## 📁 File Information
+
+- **File Name:** Resume'.pdf  
 - **Format:** PDF  
-- **Last Updated:** April 2025  
-- **Use:** Job applications in cybersecurity, IT, and networking fields  
+- **Updated:** April 2025  
+- **Purpose:** Used for job applications in cybersecurity and IT roles.
 
 ---
+
 
