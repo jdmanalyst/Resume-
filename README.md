@@ -2,7 +2,7 @@
 
 ## 📄 Overview
 
-This resume outlines the academic background, certifications, and technical skills of **Joe Dennis U. Mauricio**, an aspiring cybersecurity professional. It is intended for internship and entry-level roles in cybersecurity, IT, and networking.
+This resume outlines the academic background, certifications, and technical skills of **Joe Dennis U. Mauricio**, an aspiring cybersecurity professional. It is intended for entry-level roles in cybersecurity, IT, and networking.
 
 ## 🎯 Career Objective
 
